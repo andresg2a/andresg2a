@@ -1,9 +1,5 @@
 - 👋 Hi, I’m Jaime Andres,
 - 
-Ingeniero de software, analista, investigador, y desarrollador en las tecnologías y librerías de programación como JavaScript, ReactJS, Manejo de REST API con Node.js (Express/Nest)
-Bases de datos como PostgreSQL, MySQL, Manejo Git Y GitHub.
-Cuento con habilidades de liderazgo, comunicación, gerenciamiento de sí mismo, orden y claridad.
+Ingeniero de software versado en análisis, investigación y desarrollo, con competencia destacada en tecnologías y lenguajes de programación como Java, JavaScript, PHP, Python y C++. Especializado en el desarrollo Frontend, con dominio profundo de HTML, CSS y otras herramientas relevantes. Amplia experiencia en administración de bases de datos, incluyendo PostgreSQL y MySQL. Experto en la gestión de versiones con Git y GitHub. Reconocidas habilidades en liderazgo, comunicación efectiva, autogestión y en la organización meticulosa de proyectos.
 
-Software engineer, analyst, researcher, and developer in programming technologies and libraries such as JavaScript, ReactJS, REST API management with Node.js (Express/Nest).
-Databases such as PostgreSQL, MySQL, Git and GitHub.
-I have leadership skills, communication, self-management, order and clarity.
+Software engineer versed in analysis, research and development, with outstanding proficiency in technologies and programming languages such as Java, JavaScript, PHP, Python and C++. Specialized in Frontend development, with deep proficiency in HTML, CSS and other relevant tools. Extensive experience in database administration, including PostgreSQL and MySQL. Expert in version management with Git and GitHub. Recognized skills in leadership, effective communication, self-management and meticulous project organization.
